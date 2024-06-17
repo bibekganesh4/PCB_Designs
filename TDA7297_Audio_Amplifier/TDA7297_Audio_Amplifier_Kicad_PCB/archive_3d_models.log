@@ -1,0 +1,77 @@
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 8.0.1
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.12
+
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080)]
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+06-17 13:43:47 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 20
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 26:Starting to archive 3D models
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J6
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J5
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J4
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3523N_Horizontal.wrl
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3523N_Horizontal.wrl
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J3
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: RV1
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/Dual_Potentiometer/Pot cap.step
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/Dual_Potentiometer/Pot cap.step
+06-17 13:43:48 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/Dual_Potentiometer/Dual_Pot.STEP
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/Dual_Potentiometer/Dual_Pot.STEP
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J1
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J2
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/3D Body/Screw Terminal 2-PIN_P5.0/CUI_DEVICES_TB007-508-02BE.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U1
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/Heatsink/Heatsink 25x23x16.STEP
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/Heatsink/Heatsink 25x23x16.STEP
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: D:/ROBOTRONICS/LIBRARY/KIKAD/TDA7297/TDA7297.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: D:/ROBOTRONICS/LIBRARY/KIKAD/TDA7297/TDA7297.step
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R3
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R2
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R1
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D1
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C5
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.8mm_W2.6mm_P2.50mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.8mm_W2.6mm_P2.50mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C4
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D13.0mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D13.0mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C3
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D8.0mm_W2.5mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D8.0mm_W2.5mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C2
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D8.0mm_W2.5mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D8.0mm_W2.5mm_P5.00mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C1
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D5.0mm_P2.50mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D5.0mm_P2.50mm.wrl
+06-17 13:43:49 com_github_MitjaNemec_Archive3DModels.archive_3d_models 153:Did not succeed to copy 3D models!
+('J3', '${KICAD8_3DMODEL_DIR}\\TerminalBlock_MetzConnect.3dshapes\\TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl')
+('RV1', '${KICAD8_3DMODEL_DIR}\\Potentiometer_THT.3dshapes\\Potentiometer_Alps_RK163_Dual_Horizontal.wrl')
+('J1', '${KICAD8_3DMODEL_DIR}\\TerminalBlock_MetzConnect.3dshapes\\TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl')
+('J2', '${KICAD8_3DMODEL_DIR}\\TerminalBlock_MetzConnect.3dshapes\\TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal.wrl')
