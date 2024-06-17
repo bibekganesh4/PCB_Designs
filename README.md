@@ -1,4 +1,4 @@
-# PCB-Designs
+# PCB-Designs - By BIBEK KUMAR GANESH
 
 Welcome to the "PCB-Designs" repository, where electronics enthusiasts and hobbyists can explore a curated collection of printed circuit board (PCB) designs that will ignite their passion for DIY projects.
 
