@@ -1,4 +1,4 @@
-## TDA7297 Audio Amplifier PCB
+## TDA7297 Audio Amplifier PCB (KICAD)
 
 Immerse yourself in the realm of crystal-clear audio with this meticulously designed PCB for the TDA7297 Audio Amplifier. Crafted with precision and attention to detail, this PCB promises to elevate your audio experience to new heights.
 
