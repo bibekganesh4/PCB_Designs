@@ -2,6 +2,9 @@
 
 Immerse yourself in the realm of crystal-clear audio with this meticulously designed PCB for the TDA7297 Audio Amplifier. Crafted with precision and attention to detail, this PCB promises to elevate your audio experience to new heights.
 
+![3D-view](https://github.com/bibekganesh4/PCB_Designs/assets/78734039/cbd271f1-72a0-4d00-906e-29c66b8bf901)
+
+
 ### About TDA7297
 
 The TDA7297 is a monolithic integrated circuit designed for high-performance audio amplification. Featuring advanced technologies, it delivers exceptional sound quality with low distortion and high efficiency. This versatile amplifier boasts the following specifications:
