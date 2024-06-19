@@ -39,6 +39,11 @@ This PCB is an ideal solution for a wide range of audio applications, including:
 
 To get started with this PCB design, simply clone or download the repository. The design files are compatible with KiCad, ensuring seamless integration and modification capabilities.
 
+**Clone the Repository**: 
+   ```bash
+   git clone https://github.com/yourusername/TDA7297-Audio-Amplifier.git
+   ```
+
 Feel free to customize and adapt this design to suit your specific requirements. Whether you're an experienced maker or a curious beginner, this PCB design offers a solid foundation for your audio amplifier projects.
 
 Join the community, share your experiences, and contribute your own enhancements to make this design even better!
